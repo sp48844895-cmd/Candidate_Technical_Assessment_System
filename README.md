@@ -10,7 +10,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone "https://github.com/sp48844895-cmd/Candidate_Technical_Assessment_System.git"
    cd Candidate_Technical_Assessment_System
    ```
 
