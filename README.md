@@ -4,7 +4,6 @@
 
 - PHP >= 8.2
 - Composer
-- Node.js and npm (optional, for asset compilation)
 
 ## Installation Steps
 
