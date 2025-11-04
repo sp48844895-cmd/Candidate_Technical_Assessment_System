@@ -1,0 +1,99 @@
+{
+  "JavaScript": [
+    {
+      "question": "What is the output of: console.log(typeof typeof 1)?",
+      "options": [
+        "number",
+        "string",
+        "undefined",
+        "object"
+      ],
+      "correct_answer": "string"
+    },
+    {
+      "question": "What is closure in JavaScript?",
+      "options": [
+        "A function that returns another function",
+        "A function that has access to variables in its outer scope",
+        "A way to close a browser window",
+        "A method to end a JavaScript program"
+      ],
+      "correct_answer": "A function that has access to variables in its outer scope"
+    },
+    {
+      "question": "What does the \"this\" keyword refer to in JavaScript?",
+      "options": [
+        "The current function",
+        "The global object",
+        "The object that owns the method",
+        "The parent object"
+      ],
+      "correct_answer": "The object that owns the method"
+    }
+  ],
+  "Python": [
+    {
+      "question": "What is the difference between list and tuple in Python?",
+      "options": [
+        "Lists are mutable, tuples are immutable",
+        "Tuples are mutable, lists are immutable",
+        "They are identical",
+        "Lists are faster than tuples"
+      ],
+      "correct_answer": "Lists are mutable, tuples are immutable"
+    },
+    {
+      "question": "What is a list comprehension in Python?",
+      "options": [
+        "A way to read files",
+        "A concise way to create lists",
+        "A method to delete lists",
+        "A way to sort lists"
+      ],
+      "correct_answer": "A concise way to create lists"
+    },
+    {
+      "question": "What is the purpose of __init__ in Python?",
+      "options": [
+        "To initialize a class instance",
+        "To terminate a program",
+        "To import modules",
+        "To create a function"
+      ],
+      "correct_answer": "To initialize a class instance"
+    }
+  ],
+  "Java": [
+    {
+      "question": "What is the difference between == and .equals() in Java?",
+      "options": [
+        "== compares references, .equals() compares values",
+        ".equals() compares references, == compares values",
+        "They are identical",
+        "== is for strings, .equals() is for numbers"
+      ],
+      "correct_answer": "== compares references, .equals() compares values"
+    },
+    {
+      "question": "What is method overriding in Java?",
+      "options": [
+        "Providing a specific implementation of a method in a subclass",
+        "Creating a new method",
+        "Deleting a method",
+        "Renaming a method"
+      ],
+      "correct_answer": "Providing a specific implementation of a method in a subclass"
+    },
+    {
+      "question": "What is the difference between abstract class and interface in Java?",
+      "options": [
+        "Abstract class can have implemented methods, interface cannot",
+        "Interface can have implemented methods, abstract class cannot",
+        "They are identical",
+        "Abstract class is for variables, interface is for methods"
+      ],
+      "correct_answer": "Abstract class can have implemented methods, interface cannot"
+    }
+  ]
+}
+
